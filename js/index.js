@@ -15,3 +15,5 @@ var userLanguage = prompt("What kind of programming languages you know?", "JavaS
 var userJob = prompt("Where do you want to work?", "Amazon");
 
 var userOpinion = prompt("What is your future plans?", "Typing");
+
+var userOpinion = prompt("What is your future plans?", "Typing");
